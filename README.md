@@ -13,7 +13,11 @@ marble_music_creator.py を Blender のアドオンとしてインストール�
 ビューポートのメニューに Marble Music Creator が追加されます。
 
 **Target Object**　- ボールのオブジェクトを選んでください。  
+<<<<<<< HEAD
 **Prefab Object** - 板のオブジェクトを選んでください。  
+=======
+**Prefab Object** - 板のオブジェクトを選んでください。
+>>>>>>> 03e923fbf274096d78af6046ae4523b1ada5c32a
 **Collection Of Instance** - 複製されたオブジェクトを入れるコレクションを選んでください。（無しなら複製元と同じコレクションになります。）  
 **Position Offset** - 板をボールからどれくらい離れた位置に配置するかを決めます。ボールの半径より少し大きめにしてください。  
 **Random Rotation Angle** - ボールの進行方向に対して板を傾ける角度の最大値を決めます。
